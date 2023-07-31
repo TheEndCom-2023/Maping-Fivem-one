@@ -2,6 +2,6 @@
 
 instal ================instal
 
-*+ Extraction file parking in file resurse server
+*+ Extraction file parking in file resources server
 +*+ go to server.cgt print ensure parking+*
  
